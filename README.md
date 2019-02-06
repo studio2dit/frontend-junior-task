@@ -1,7 +1,10 @@
 # frontend-junior-task
 # Тестовое задание на стажировку в 2Dit
 
-Сверстать страницу (первый экран) по макету. Макет находится по [ссылке](https://www.figma.com/file/MxiIfk5djCxaroatwdhriDvg/Mobile-App-Landing-Page?node-id=1%3A1914)
+Сверстать страницу (первый экран) по макету. Макет находится по [ссылке](https://www.figma.com/file/MxiIfk5djCxaroatwdhriDvg/Mobile-App-Landing-Page?node-id=1%3A1914). (Figma)
+
+### Main Screen
+![Specs](first.jpg)
 
 ## Требования к верстке
 #### Оглавление
