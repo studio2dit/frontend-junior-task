@@ -1,5 +1,5 @@
 # frontend-junior-task
-# Тестовое задание на стажировку в 2Dit
+# Тестовое задание разработчика в 2Dit
 
 Сверстать страницу по [БЭМ](https://ru.bem.info/) (первый экран) по макету. Макет находится по [ссылке](https://www.figma.com/file/MxiIfk5djCxaroatwdhriDvg/Mobile-App-Landing-Page?node-id=1%3A1914). (Figma)
 
