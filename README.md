@@ -1,7 +1,7 @@
 # frontend-junior-task
 # Тестовое задание разработчика в 2Dit
 
-Сверстать первый экран макета по [БЭМ](https://ru.bem.info/) (только первый экран, тот что на картинке ниже) по макету. Макет находится по [ссылке](https://www.figma.com/file/MxiIfk5djCxaroatwdhriDvg/Mobile-App-Landing-Page?node-id=1%3A1914). (Figma)
+Сверстать один экран по [БЭМ](https://ru.bem.info/) (только первый экран, тот что на картинке ниже) макету. Макет находится по [ссылке](https://www.figma.com/file/5HlZbJsMgTzBUVyxpsfw3d/2Dit-Front-End-Test?node-id=557%3A3272). (Figma)
 
 ### Main Screen
 ![Specs](first.jpg)
