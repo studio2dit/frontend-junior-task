@@ -110,5 +110,5 @@
 
 Работу лучше присылать ссылкой на [GitHub](https://github.com/)([GitLab](https://gitlab.com/)/[Bitbucket](https://bitbucket.org/)).
 
-## Если есть вопросы по тестовому можно писать [Дмитрию](mailto:dm@2dit.ru)
+## Если есть вопросы по тестовому писать [на почту](mailto:dm@2dit.ru)
 
