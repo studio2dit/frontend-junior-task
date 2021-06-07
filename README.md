@@ -1,7 +1,7 @@
 # frontend-junior-task
 # Тестовое задание разработчика в 2Dit
 
-Сверстать один экран по [БЭМ](https://ru.bem.info/) макету. Макет находится по [ссылке](https://www.figma.com/file/5HlZbJsMgTzBUVyxpsfw3d/2Dit-Front-End-Test?node-id=557%3A3272). (Figma)
+Сверстать один экран по [БЭМ](https://ru.bem.info/) макету. Макет находится по [ссылке](https://www.figma.com/file/5HlZbJsMgTzBUVyxpsfw3d/2Dit-Front-End-Test?node-id=557%3A3272). (Figma) Добавить анимацию появления строк с игроками и анимацию переключения составов (на своё усмотрения).
 
 ### Превью макета
 ![Specs](sport.png)
